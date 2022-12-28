@@ -1,0 +1,22 @@
+<urlset>
+	<url>
+		<loc>https://localhost/THN/index.php</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://localhost/THN/store.php</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://localhost/THN/applications.php</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://localhost/THN/help.php</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+</urlset>

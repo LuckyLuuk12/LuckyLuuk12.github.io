@@ -1,0 +1,3 @@
+Sitemap: https://localhost/THN/sitemap.xml
+User-agent: *
+Disallow: 
